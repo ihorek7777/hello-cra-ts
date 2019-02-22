@@ -1,14 +1,14 @@
 {
-  "main.css": "/hello-cra-ts/static/css/main.a1b52ea2.chunk.css",
-  "main.js": "/hello-cra-ts/static/js/main.697e00a3.chunk.js",
-  "main.js.map": "/hello-cra-ts/static/js/main.697e00a3.chunk.js.map",
-  "runtime~main.js": "/hello-cra-ts/static/js/runtime~main.9f250cf7.js",
-  "runtime~main.js.map": "/hello-cra-ts/static/js/runtime~main.9f250cf7.js.map",
-  "static/js/2.22412ae0.chunk.js": "/hello-cra-ts/static/js/2.22412ae0.chunk.js",
-  "static/js/2.22412ae0.chunk.js.map": "/hello-cra-ts/static/js/2.22412ae0.chunk.js.map",
-  "index.html": "/hello-cra-ts/index.html",
-  "precache-manifest.2c971bae22e7bd61c38b0e147d4cff49.js": "/hello-cra-ts/precache-manifest.2c971bae22e7bd61c38b0e147d4cff49.js",
-  "service-worker.js": "/hello-cra-ts/service-worker.js",
-  "static/css/main.a1b52ea2.chunk.css.map": "/hello-cra-ts/static/css/main.a1b52ea2.chunk.css.map",
-  "static/media/logo.svg": "/hello-cra-ts/static/media/logo.5d5d9eef.svg"
+  "main.css": "/unlimited-storage/static/css/main.626074b5.chunk.css",
+  "main.js": "/unlimited-storage/static/js/main.73d35225.chunk.js",
+  "main.js.map": "/unlimited-storage/static/js/main.73d35225.chunk.js.map",
+  "runtime~main.js": "/unlimited-storage/static/js/runtime~main.a63c9cd1.js",
+  "runtime~main.js.map": "/unlimited-storage/static/js/runtime~main.a63c9cd1.js.map",
+  "static/js/2.22412ae0.chunk.js": "/unlimited-storage/static/js/2.22412ae0.chunk.js",
+  "static/js/2.22412ae0.chunk.js.map": "/unlimited-storage/static/js/2.22412ae0.chunk.js.map",
+  "index.html": "/unlimited-storage/index.html",
+  "precache-manifest.22a8ed1adb20792cbc660fbe7b040882.js": "/unlimited-storage/precache-manifest.22a8ed1adb20792cbc660fbe7b040882.js",
+  "service-worker.js": "/unlimited-storage/service-worker.js",
+  "static/css/main.626074b5.chunk.css.map": "/unlimited-storage/static/css/main.626074b5.chunk.css.map",
+  "static/media/logo.svg": "/unlimited-storage/static/media/logo.5d5d9eef.svg"
 }
