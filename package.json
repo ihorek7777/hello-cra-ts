@@ -2,7 +2,7 @@
   "name": "hello-cra-ts",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "http://ihorek7777.github.io/hello-cra-ts",
+  "homepage" : "http://verkhohliad.github.io/unlimited-storage",
   "dependencies": {
     "@types/jest": "24.0.6",
     "@types/node": "11.9.4",
